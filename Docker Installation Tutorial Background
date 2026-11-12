@@ -1,0 +1,8 @@
+During my computer science coursework, I noticed that some of my fellow Computer Science majors struggled with setting up and getting started with Docker. Although Docker is a widely used development tool, the initial installation and configuration process can be intimidating for people who are less familiar with it.
+
+I wanted to address this by creating a beginner-friendly, step-by-step installation tutorial that would make the setup process more intuitive and easier to follow.
+
+To improve the tutorial, I was interested in gathering feedback from users with adjacent technical backgrounds, such as engineering students, who might not have had the same exposure to Docker through their coursework.
+
+The goal was to use that feedback and user testing to create instructions that were clear, accessible, and easy to follow along with, even for someone encountering Docker for the first time.
+
